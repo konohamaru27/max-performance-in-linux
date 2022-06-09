@@ -2,7 +2,7 @@ how to use ?
 
 step1: git clone https://github.com/konohamaru27/max-performance-in-linux.git
 
-step2: cd max-performance-on-linux
+step2: cd max-performance-in-linux
 
 step3: ls
 
