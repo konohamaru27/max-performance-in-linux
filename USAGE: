@@ -6,9 +6,7 @@ step2: cd max-performance-in-linux
 
 step3: ls
 
-step4: cd performance.sh
-
-step5: sudo chmod +x performance.sh
+step4: sudo chmod +x performance.sh
 
 to run the programm:
 
